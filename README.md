@@ -1,6 +1,6 @@
-# I build desktop tools and engineering utilities. 
+# I Build Desktop Tools and Engineering Utilities
 
-## Either out of need or out of spite.
+## Either out of need or out of **spite**
 
 Most of my projects are pragmatic tools written to replace bloated software, cloud-first nonsense, and tools that actively get in the way of doing actual work. They exist because I needed them, used them, and eventually got tired of pretending the existing solutions were “fine”.
 
