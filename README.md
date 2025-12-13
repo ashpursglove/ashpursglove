@@ -8,13 +8,13 @@ Most of my projects are pragmatic tools written to replace bloated software, clo
 
 ## Notable Tools
 - [**Modbus RTU Tester**](https://github.com/ashpursglove/ashs-modbus-tool) – Debug Modbus devices locally without vendor software, serial terminal archaeology, or blind faith.
-- **PDF Manipulator** – Merge and split PDFs without Adobe, Java, subscriptions, or spiritual compromise.
-- **Video Converter** – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
-- **Image Converter** – Convert images between formats, resize them sensibly, and generate ICO files without opening Photoshop or questioning your life choices.
-- **Cable Tray Calculator** – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
+- [**Video Converter**](https://github.com/ashpursglove/ashs_video_converter) – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
+- [**Image Converter**](https://github.com/ashpursglove/Ashs_Image_Converter) – Convert images between formats, resize them sensibly, and generate ICO files without opening Photoshop or questioning your life choices.
+- [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
+- - [**PDF Manipulator**](https://github.com/ashpursglove/Ashs_PDF_Manipulator) – Merge and split PDFs without Adobe, Java, subscriptions, or spiritual compromise.
 
 
-## Constraints (Non-Negotiable)
+## Usual MO (Non-Negotiable)
 - Local-first
 - No cloud dependencies
 - No subscriptions
