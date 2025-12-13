@@ -1,6 +1,8 @@
-I build local-first desktop tools and engineering utilities.
+I build desktop tools and engineering utilities. 
 
-Most of my projects are pragmatic tools written in Python and PyQt, designed to replace bloated software, cloud-first nonsense, and tools that actively get in the way of doing actual work. They exist because I needed them, used them, and eventually got tired of pretending the existing solutions were “fine”.
+Either out of need or out of spite.
+
+Most of my projects are pragmatic tools written to replace bloated software, cloud-first nonsense, and tools that actively get in the way of doing actual work. They exist because I needed them, used them, and eventually got tired of pretending the existing solutions were “fine”.
 
 ## Selected Tools
 - **Modbus RTU Tester** – Debug Modbus devices locally without vendor software, serial terminal archaeology, or blind faith.
