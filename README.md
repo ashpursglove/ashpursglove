@@ -11,7 +11,7 @@ Most of my projects are pragmatic tools written to replace bloated software, clo
 - [**Video Converter**](https://github.com/ashpursglove/ashs_video_converter) – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
 - [**Image Converter**](https://github.com/ashpursglove/Ashs_Image_Converter) – Convert images between formats, resize them sensibly, and generate ICO files without opening Photoshop or questioning your life choices.
 - [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
-- - [**PDF Manipulator**](https://github.com/ashpursglove/Ashs_PDF_Manipulator) – Merge and split PDFs without Adobe, Java, subscriptions, or spiritual compromise.
+- [**PDF Manipulator**](https://github.com/ashpursglove/Ashs_PDF_Manipulator) – Merge and split PDFs without Adobe, Java, subscriptions, or spiritual compromise.
 
 
 ## Usual MO (Non-Negotiable)
