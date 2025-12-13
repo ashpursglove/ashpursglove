@@ -22,5 +22,5 @@ Most of my projects are pragmatic tools written to replace bloated software, clo
 - EXEs included where it makes sense
 - Source always available
 
-Build from source if you want to feel morally superior.  
-Double-click the EXE if you want the tool to open and do its job.
+## Build from source if you want to feel morally superior.  
+## Double-click the EXE if you want to actually get the fucking job done.
