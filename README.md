@@ -1,4 +1,4 @@
-# I Build Engineering Utilities and Desktop Tools
+# I Build Engineering Utilities and Useful Desktop Tools for Engineers
 
 ## Either Out of Need or Out of **Spite**
 
