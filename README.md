@@ -1,7 +1,8 @@
 # I Build Desktop Tools and Engineering Utilities
 
 ## Either Out of Need or Out of **Spite**
-<img width="300" height="300" alt="pepe png" src="https://github.com/user-attachments/assets/7ac53e89-8f81-4b84-9322-2399f7316ce2" />
+<img width="1800" height="600" alt="github banner" src="https://github.com/user-attachments/assets/b292b251-e03b-441a-a778-96282b39c2d7" />
+
 
 Most of my projects are pragmatic tools written to replace bloated software, cloud-first nonsense, and tools that actively get in the way of doing actual work. They exist because I needed them, used them, and eventually got sick of subscribtion "professional" software being worse than what I can do myself.
 
