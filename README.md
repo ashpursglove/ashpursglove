@@ -22,7 +22,6 @@ They exist because I needed them, used them, and eventually got sick of subscrib
  - [**Video Converter**](https://github.com/ashpursglove/ashs_video_converter) – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
 - [**Image Converter**](https://github.com/ashpursglove/Ashs_Image_Converter) – Convert images between formats, resize them sensibly, and generate ICO files without opening Photoshop or questioning your life choices.
 
-https://github.com/ashpursglove/Ashs_engineering_drawings
 
 ## Usual MO (Non-Negotiable)
 - Local-first
