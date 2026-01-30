@@ -34,3 +34,6 @@ They exist because I needed them, used them and just got sick of subscribtion "p
 
 ## Build from source if you want to feel morally superior.  
 ## Double-click the EXE if you want to actually get the fucking job done.
+
+## Pull Requests
+If you want to help out the projects and update, bugfix etc please feel free to send pull requests. I do have a day job so apologies if it takes me a while to get round to reviewing and merging your code. Will give full credits in the ReadMe to anyone who makes my code less janky!
