@@ -18,8 +18,9 @@ They exist because I needed them, used them and just got sick of subscribtion "p
 - [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
 - [**Engineering Drawing Maker**](https://github.com/ashpursglove/Ashs_engineering_drawings) – Turn images and PDFs into proper ISO-style engineering drawings without AutoCAD, SolidWorks, licence servers, or a multinational claiming custody of your own work.
 - [**OBJ Viewer**](https://github.com/ashpursglove/Ashs_OBJ_Viewer) – Preview OBJs, bake lighting, and render clean turntable animations to MP4 or GIF. No cloud, no accounts, no Blender pilgrimage.
-- - [**STL to OBJ Converter**](https://github.com/ashpursglove/STL_to_OBJ) – A local STL → OBJ converter with batch drag-and-drop, vertex welding, mesh cleanup, and basic transforms. No cloud, no accounts, no Autodesk
- - [**Video Converter**](https://github.com/ashpursglove/ashs_video_converter) – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
+- [**STL to OBJ Converter**](https://github.com/ashpursglove/STL_to_OBJ) – A local STL → OBJ converter with batch drag-and-drop, vertex welding, mesh cleanup, and basic transforms. No cloud, no accounts, no Autodesk
+### Media Tools
+- [**Video Converter**](https://github.com/ashpursglove/ashs_video_converter) – FFmpeg GUI for converting videos without memorising flags or naming files `final_v7_REAL_THIS_ONE.mp4`.
 - [**Image Converter**](https://github.com/ashpursglove/Ashs_Image_Converter) – Convert images between formats, resize them sensibly, and generate ICO files without opening Photoshop or questioning your life choices.
 - [**PDF Manipulator**](https://github.com/ashpursglove/Ashs_PDF_Manipulator) – Merge and split PDFs without Adobe, Java, subscriptions, or spiritual compromise.
 
