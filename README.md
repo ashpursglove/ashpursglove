@@ -15,7 +15,7 @@ They exist because I needed them, used them and just got sick of subscribtion "p
 ### Engineering Tools
 - [**Ash's P&ID Playground**](https://github.com/ashpursglove/PandID) – Legit one of my best programs to date, draw out P&ID diagrams with drage and drop functionality and then simulate flow through the system. ONce youre done package it all up in some nice ISO engineering drawings along with the analysis and full BOM.
 - [**Modbus RTU Tester**](https://github.com/ashpursglove/ashs-modbus-tool) – Debug Modbus devices locally without vendor software, serial terminal archaeology, or blind faith.
-- [**Construction Cost Calculator**](https://github.com/ashpursglove/ashs_construction_calculator) – Construction cost calculator for engineers who prefer arithmetic and logic over optimism and don’t enjoy being gaslit by spreadsheets.
+- [**Construction Cost Calculator**](https://github.com/ashpursglove/building-calculator-2) – Construction cost calculator for engineers who prefer arithmetic and logic over optimism and don’t enjoy being gaslit by spreadsheets.
 - [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
 - [**Engineering Drawing Maker**](https://github.com/ashpursglove/Ashs_engineering_drawings) – Turn images and PDFs into proper ISO-style engineering drawings without AutoCAD, SolidWorks, licence servers, or a multinational claiming custody of your own work.
 - [**OBJ Viewer**](https://github.com/ashpursglove/Ashs_OBJ_Viewer) – Preview OBJs, bake lighting, and render clean turntable animations to MP4 or GIF. No cloud, no accounts, no Blender pilgrimage.
