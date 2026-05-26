@@ -13,7 +13,7 @@ They exist because I needed them, used them and just got sick of subscribtion "p
 
 ## Notable Tools I'm Pretty Chuffed With
 ### Engineering Tools
-- [**Ash's P&ID Playground**](https://github.com/ashpursglove/PandID) – Legit one of my best programs to date, draw out P&ID diagrams with drage and drop functionality and then simulate flow through the system. ONce youre done package it all up in some nice ISO engineering drawings along with the analysis and full BOM.
+- [**Ash's P&ID Playground**](https://github.com/ashpursglove/PandID) – Legit one of my best programs to date, draw out P&ID diagrams with drage and drop functionality and then simulate flow through the system. Once youre done package it all up in some nice ISO engineering drawings along with the analysis and full BOM.
 - [**Modbus RTU Tester**](https://github.com/ashpursglove/ashs-modbus-tool) – Debug Modbus devices locally without vendor software, serial terminal archaeology, or blind faith.
 - [**Construction Cost Calculator**](https://github.com/ashpursglove/building-calculator-2) – Construction cost calculator for engineers who prefer arithmetic and logic over optimism and don’t enjoy being gaslit by spreadsheets.
 - [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
