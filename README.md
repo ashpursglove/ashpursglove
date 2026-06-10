@@ -13,7 +13,7 @@ They exist because I needed them, used them and just got sick of subscribtion "p
 
 ## Notable Tools I'm Pretty Chuffed With
 ### Engineering Tools
-- [**Ash's P&ID Playground**](https://github.com/ashpursglove/PandID) – Legit one of my best programs to date, draw out P&ID diagrams with drage and drop functionality and then simulate flow through the system. Once youre done package it all up in some nice ISO engineering drawings along with the analysis and full BOM.
+- [**Ash's MEP Playground**](https://github.com/ashpursglove/PandID) –  — Genuinely one of my favourite things I've built. Drag-and-drop P&ID diagrams, then simulate real hydraulics through the system (Darcy-Weisbach losses, pump curves, operating points). Now with a full electrical discipline too: draw the single-line diagram and it generates a hierarchical schedule of loads, a cable schedule with voltage-drop and ampacity checks, an electrical BOM, and one-click auto-sizing. When you're done, package the whole lot into clean ISO engineering drawings with the analysis and full bill of materials. Local, offline, no licence server, no login.
 - [**Modbus RTU Tester**](https://github.com/ashpursglove/ashs-modbus-tool) – Debug Modbus devices locally without vendor software, serial terminal archaeology, or blind faith.
 - [**Construction Cost Calculator**](https://github.com/ashpursglove/building-calculator-2) – Construction cost calculator for engineers who prefer arithmetic and logic over optimism and don’t enjoy being gaslit by spreadsheets.
 - [**Cable Tray Calculator**](https://github.com/ashpursglove/Ashs_Cable_Tray_Calculator) – Calculate cable tray fill, weights, and sanity without spreadsheets, guesswork, or site arguments that start with “it should be fine”.
